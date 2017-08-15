@@ -5,3 +5,8 @@ install:
   - pip install beautifulsoup4
 script:
 - python real.py
+notifications:
+  email:
+    recipients:
+      - never4ever@mail.ru
+    on_failure: always
