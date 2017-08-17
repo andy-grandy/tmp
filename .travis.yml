@@ -8,5 +8,5 @@ script:
 notifications:
   email:
     recipients:
-      - $mail
+      - never4ever@mail.ru
     on_failure: always
