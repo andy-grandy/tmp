@@ -8,5 +8,5 @@ script:
 notifications:
   email:
     recipients:
-      - $MAIL
+      - $mail
     on_failure: always
